@@ -15,6 +15,8 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 **Note:** Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
+The result should match the following image:
+
 # Bonus
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
